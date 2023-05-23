@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
+.heading{
+    
+    font-weight:700;
+    font-size: 65px;
+    color: white;
+    padding-bottom: 20px;
+}
+.heading-details{
+    
+    font-weight: 400;
+    color:rgb(247, 247, 247);
+    font-size: 18px;
+    padding-bottom:20px ;
+    
+}
+.btn{
+    align-items: center;
+    justify-content: center;
+
+}
+.btn-1{
+    
+    width: 160px;
+    height: 56px;
+    border: none;
+    background-color: #FF5959;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    
+}
+/* .btn-2{
+    
+    border: none;
+    font-size:20px ;
+    background: transparent;
+    color: #707070;
+} */
+img{
+    width: 1440px;
+}
+.banner{
+padding: 174px 307px;    
+text-align: center;
+justify-content: center;
+}
+
+
+.donate{
+    padding-top: 130px;
+    text-align: center;
+}
+.donate-head{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.donate-details{
+ color: #707070;
+ font-size: 18px;
+ font-weight: 200px;
+ margin-bottom: 50px;
+}
+.donate-amount{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 35px;
+    gap: 24px;        
+}
+.donate-1{
+    background-color: #fafafa;
+    text-align: center;
+    padding: 43px 24px;
+    color: #707070;
+    border-radius: 5px;
+}
+.inp input{
+    border: none;
+    width: 756px;
+    margin-top: 60px;
+    margin-left: 408px;
+    text-align: center;
+    margin-bottom: 9.5px;
+    
+}
+.inp hr{
+    width:756px;
+    margin-left: 408px;
+}
+.fline{
+    display: flex;
+    gap: 83px;
+    
+}
+.inner-image img{
+    width:456px;
+    height:477px;
+}
+.plan{
+    display: flex;
+    padding-left:157px ;
+    gap: 24px;
+    
+    
+}
+.plan img{
+    width: 58px;
+    height: 49px;
+    justify-content: space-between;
+    padding-top: 63px;
+    padding-left: 23px;
+}
+.plan1{
+    border-radius: 5px;
+    width: 360px;
+    height: 352px;
+    background-color:   ;
+    box-shadow: 0px 6px 50px rgba(128, 128, 128, 0.013);
+}
+.plan-head{
+    font-weight: 600;
+    font-size: 24px;
+    padding-top:32px ;
+    padding-left: 24px;
+}
+.plan-details{
+    padding-top:32px ;
+    padding-left: 24px;
+   color: #707070;
+    font-weight: 200;
+
+}
